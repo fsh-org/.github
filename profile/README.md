@@ -1,6 +1,10 @@
 # Fsh
-Fsh is a organization of many products made for users like you find more here.\
-This organization shares some of the code of our products so you can contribute!\
+Fsh is a organization with many products made for users like you find more here.\
+This organization is used to share some of the code of our products so you can contribute!\
 Note: this may not be up to date
+
+Main page: https://fsh.plus
 # Products
-* Fsh bot (https://fsh-bot.frostzzone.repl.co)
+* Fsh bot (https://bot.fsh.plus)
+* Fsh api (https://api.fsh.plus)
+* Fsh storage (https://storage.fsh.plus)
