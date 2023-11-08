@@ -7,3 +7,4 @@ Main page: https://fsh.plus
 # Products
 * Fsh bot (https://bot.fsh.plus)
 * Fsh api (https://api.fsh.plus)
+* Fsh radio (https://radio.fsh.plus)
