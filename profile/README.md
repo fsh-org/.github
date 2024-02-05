@@ -5,6 +5,8 @@ Note: this may not be up to date
 
 Main page: https://fsh.plus
 # Products
-* Fsh bot (https://bot.fsh.plus)
-* Fsh api (https://api.fsh.plus)
-* Fsh radio (https://radio.fsh.plus)
+* [Fsh bot](https://bot.fsh.plus)
+* [Fsh api](https://api.fsh.plus)
+* [Fsh radio](https://radio.fsh.plus)
+* [Fsh link](https://link.fsh.plus)
+* [Fsh chat](https://chat.fsh.plus)
