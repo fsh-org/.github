@@ -10,3 +10,5 @@ Main page: https://fsh.plus
 * [Fsh radio](https://radio.fsh.plus)
 * [Fsh link](https://link.fsh.plus)
 * [Fsh chat](https://chat.fsh.plus)
+* [Fsh html](https://html.fsh.plus)
+* [Fsh todo](https://todo.fsh.plus)
